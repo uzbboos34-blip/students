@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "fullname": "Ali",
+        "age": 25,
+        "email": "ali@gmali.com",
+        "phone": "+998901212334",
+        "password": 12345667
+    },
+    {
+        "id": 2,
+        "fullname": "Vali",
+        "age": 21,
+        "email": "vali@gmali.com",
+        "phone": "+998911212334",
+        "password": 65432112
+    },
+    {
+        "id": 3,
+        "fullname": "Ruslan",
+        "age": 20,
+        "email": "ruslan@gmali.com",
+        "phone": "+998901212334",
+        "password": 12345689
+    }
+]
